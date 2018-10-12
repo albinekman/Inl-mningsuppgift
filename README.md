@@ -1,20 +1,9 @@
 Övning protekoll
 
 Tcp/ ip är en kortare variant av OSI. 
-Tcp/ip består av 4 lager
-application
-host to host
-internet 
-network access. 
+Tcp/ip består av 4 lager, application, host to host, internet och network access. 
 
-OSI består av 7 lager 
-application
-presentation
-session
-transport
-network
-datalink 
-physical.
+OSI består av 7 lager, application, presentation, session, transport, network, datalink och physical.
 
 Båda protokollen fungerar likadant med transport och nätverks lagren och att båda är baserade på packet-switched teknologi. Det som skiljer är själva uppbygnaden av deras lager.
 
