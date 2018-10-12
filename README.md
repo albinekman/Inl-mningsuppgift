@@ -1,7 +1,11 @@
 Övning protekoll
 
 Tcp/ ip är en kortare variant av OSI. 
-Tcp/ip består av 4 lager, application, host to host, internet och network access. 
+Tcp/ip består av 4 lager
+application vilket hanterar representation, kodning och dialog
+host to host är ungifär samma sak som OSIs transport. Det hanterar pålitlighet och kontroll av error
+internet visar vägen för paketer fån sändaren till destenationen. 
+network access är konceptet för data link och fysiska lagren för båda Lan och Wan.
 
 OSI består av 7 lager, application, presentation, session, transport, network, datalink och physical.
 
